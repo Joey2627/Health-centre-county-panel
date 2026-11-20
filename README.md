@@ -1,6 +1,6 @@
 # Health-Center Sites and Preventable Hospital Use: U.S. County-Year Panel, 2012–2024
 
-Code that builds a linked county-year dataset for research on where new federally funded health-center sites reduce preventable hospital use and Medicare spending. It is the data foundation for the first essay of my Ph.D. dissertation in economics at Kansas State University ("Model 1A").
+Code that builds a linked county-year dataset for research on where new federally funded health-center sites reduce preventable hospital use and Medicare spending. It is the data foundation for the first essay on a proposed endeavor to model healthcare cost minimization, and optimization of insurance coverage in the US ("Model 1A").
 
 **Author:** Joseph Olarewaju Afolabi, Department of Economics, Kansas State University · ORCID [0000-0002-7752-1459](https://orcid.org/0000-0002-7752-1459)
 
